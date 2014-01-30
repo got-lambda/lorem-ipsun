@@ -1,0 +1,12 @@
+{"version":3,
+ "file":
+ "/Users/patrik_karlin/Library/Application Support/LightTable/plugins/lorem-ipsumcompiled.map",
+ "sources":
+ ["src/lt/plugins/lorem_ipsum.cljs"],
+ "lineCount":17,
+ "mappings":
+ ";AAAA;;;;;;;;;;;;AASA,qCAAA,rCAAKA;AAOL,kCAAA,2CAAA,2DAAA,oGAAA,qDAAA,sBAAA,vTAACC,4WAEmB,gBAAA,LAAKC,KACH,oDAAA,hDAAMC,KAAG,AAACC,2CACR,OAACC,0CAAoBF,GAAGH",
+ "names":
+ ["lt.plugins.lorem-ipsum/ipsum-stuff", "lt.objs.command/command",
+  "obj", "ed", "lt.objs.editor.pool/last-active",
+  "lt.objs.editor/insert-at-cursor"]}

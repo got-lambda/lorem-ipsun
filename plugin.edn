@@ -1,0 +1,6 @@
+{:name "lorem_ipsum"
+ :version "0.0.1"
+ :author ""
+ :source ""
+ :desc ""
+ :behaviors "lorem_ipsum.behaviors"}
